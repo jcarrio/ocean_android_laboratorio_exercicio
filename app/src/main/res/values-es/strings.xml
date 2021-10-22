@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAndroidApp</string>
+    <string name="tvTextHello">Hola %s!</string>
+    <string name="etHintNome">Tu nombre aquí</string>
+    <string name="btTextExibir">Mostrar</string>
+    <string name="tvTextSegunda">Segunda pantalla</string>
+    <string name="tvTextTerceira">Tercera pantalla</string>
+    <string name="btTextLigar">Llamar</string>
+    <string name="txtMundo">Mundo</string>
+    <string name="etHintTexto">Tu texto aquí</string>
+</resources>

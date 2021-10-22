@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyAndroidApp</string>
+    <string name="tvTextHello">Hello %s!</string>
+    <string name="etHintNome">Your name here</string>
+    <string name="btTextExibir">Show</string>
+    <string name="tvTextSegunda">Second screen</string>
+    <string name="tvTextTerceira">Third Screen</string>
+    <string name="btTextLigar">Call</string>
+    <string name="txtMundo">World</string>
+    <string name="etHintTexto">Your text here</string>
+</resources>
